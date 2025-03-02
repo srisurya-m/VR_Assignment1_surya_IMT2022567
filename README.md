@@ -45,7 +45,7 @@ This repository contains the implementation of VR Assignment 1, which includes t
    - Warped and blended images to form a panoramic output.
 
 ### Results
-- The results, including keypoint detection, feature matching, and the final stitched panorama, are available in `main_image_stitch.py`.
+- The results, including keypoint detection, feature matching, and the final stitched panorama, are available in `main_image_stitch.ipynb`.
 
 ## Installation & Requirements
 Install dependencies using:
