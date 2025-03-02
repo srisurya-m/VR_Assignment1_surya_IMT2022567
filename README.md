@@ -52,14 +52,14 @@ Install dependencies using:
 pip install opencv-python numpy scikit-image matplotlib
 
 ## Repository Structure
-VR_Assignment1_surya_IMT2022567/
-│-- part-1/
-│   │-- coin_detector.ipynb  # Jupyter Notebook for Coin Detection
-│   │-- coins.jpg            # Input image for coin detection
-│-- part-2/
-│   │-- image_stitcher.py    # Python script for Image Stitching
-│   │-- panorama1.jpeg       # First input image
-│   │-- panorama2.jpeg       # Second input image
-│-- report.pdf               # Detailed explanation of the methods used
-│-- README.md                # Project Documentation
+- VR_Assignment1_surya_IMT2022567/
+- │-- part-1/
+- │   │-- coin_detector.ipynb  # Jupyter Notebook for Coin Detection
+- │   │-- coins.jpg            # Input image for coin detection
+- │-- part-2/
+- │   │-- image_stitcher.py    # Python script for Image Stitching
+- │   │-- panorama1.jpeg       # First input image
+- │   │-- panorama2.jpeg       # Second input image
+- │-- report.pdf               # Detailed explanation of the methods used
+- │-- README.md                # Project Documentation
 
